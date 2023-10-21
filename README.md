@@ -1,8 +1,5 @@
-
-
-### Intro  
 <div align="center">
-<img src="" align="center" height="" width="" />
+<img src="https://media.licdn.com/dms/image/D4E12AQF7QTs3IVgKDQ/article-cover_image-shrink_423_752/0/1666296914768?e=1703116800&v=beta&t=rK5WmKZQHEIX-8tiZiN9n36DT2f4uw1OTTSIq3RCnQY" align="center" height="" width="" />
 </div>  
   
 
