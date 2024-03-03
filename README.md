@@ -89,15 +89,6 @@ I'm Krutik, a Software developer 👨‍💻, Creating bugs since 2018 🚀</div
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
 ## Recent Blog Posts  
   
 
