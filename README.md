@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://media.licdn.com/dms/image/D4E12AQF7QTs3IVgKDQ/article-cover_image-shrink_423_752/0/1666296914768?e=1703116800&v=beta&t=rK5WmKZQHEIX-8tiZiN9n36DT2f4uw1OTTSIq3RCnQY](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw3AwABJPIOrdIMEyUd88O61&ust=1709575113983000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPji7dzV2IQDFQAAAAAdAAAAABAE)" align="center" height="350" width="1000" />
+<img src="https://as2.ftcdn.net/v2/jpg/05/90/45/35/1000_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" align="center" height="350" width="1000" />
 </div>  
   
 
