@@ -4,7 +4,7 @@
   
 
 ### <div align="center">
-I'm Krutik, a Software developer 👨‍💻 Creating bugs since 2018 🚀</div>  
+I'm Krutik, a Software developer 👨‍💻, Creating bugs since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on [E-Commerce Website](https://github.com/krutik2377/An-Ecommerce-Website).  
