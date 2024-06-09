@@ -7,14 +7,7 @@
 I'm Krutik, a Software developer 👨‍💻, Creating bugs since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/krutik2377/An-Ecommerce-Website).  
-  
-
-- 🌱 Currently focused on learning Spring Boot and Micro Services.  
-  
-
-- ❓ Ask me about anything related to Java and ReactJs.  
-  
+- 🔭 I’m currently working on Djnago , React and many more.  
 
 - ⚡ Fun fact: Today, NASA still uses programs that are dated in the 70s for their spacecraft (❁´◡`❁).  
   
