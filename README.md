@@ -6,9 +6,6 @@
 ### <div align="center">
 I'm Krutik, a Software developer 👨‍💻, Creating bugs since 2018 🚀</div>  
   
-
-- 🔭 I’m currently working on Djnago , React and many more.  
-
 - ⚡ Fun fact: Today, NASA still uses programs that are dated in the 70s for their spacecraft (❁´◡`❁).  
   
 
