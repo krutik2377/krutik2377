@@ -6,7 +6,7 @@
 ### <div align="center">
 I'm Krutik, a Software developer 👨‍💻, Creating bugs since 2018 🚀</div>  
   
-- ⚡ Fun fact: Today, NASA still uses programs that are dated in the 70s for their spacecraft (❁´◡`❁).  
+- ⚡ Fun fact: Today, NASA still uses programs that are out-dated in the 70s for their spacecraft (❁´◡`❁).  
   
 
 <br/>  
